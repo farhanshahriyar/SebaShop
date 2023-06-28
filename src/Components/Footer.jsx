@@ -5,10 +5,9 @@ const Footer = () => {
     <>
       <Container>
         <Row>
-          <Col className="text-center py-3">
-              {/* স্বত্ব &copy;২০২৩-২০২৫ সেবা হোমিও হল কতৃক সর্বস্বত্ব সংরক্ষিত */}
-              Copyright &copy; 2023-2024 Seba Shop developed by 
-               <a href="https://mdfarhanshahriyar2023.netlify.app/" target='_blank'>Md.Farhan Shahriyar</a> 
+          <Col className="text-center">
+              Copyright &copy; 2023-2024 MovieNetwork developed by 
+               <a href="#" target='_blank'>Two Ventures</a> 
             </Col>
         </Row>
       </Container>
